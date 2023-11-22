@@ -37,7 +37,7 @@ let lastName = 'lastName';
 let person = firstName + ' ' + middleName + ' ' + lastName;
 
 //- За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
-let a = 1001;
+let a = 10011;
 let b = '100';
 let c = true;
 console.log(typeof a);
